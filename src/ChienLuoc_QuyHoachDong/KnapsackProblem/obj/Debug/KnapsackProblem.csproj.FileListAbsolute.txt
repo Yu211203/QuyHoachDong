@@ -1,0 +1,7 @@
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_QuyHoachDong\QuyHoachDong\src\ChienLuoc_QuyHoachDong\KnapsackProblem\bin\Debug\KnapsackProblem.exe.config
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_QuyHoachDong\QuyHoachDong\src\ChienLuoc_QuyHoachDong\KnapsackProblem\bin\Debug\KnapsackProblem.exe
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_QuyHoachDong\QuyHoachDong\src\ChienLuoc_QuyHoachDong\KnapsackProblem\bin\Debug\KnapsackProblem.pdb
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_QuyHoachDong\QuyHoachDong\src\ChienLuoc_QuyHoachDong\KnapsackProblem\obj\Debug\KnapsackProblem.csproj.AssemblyReference.cache
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_QuyHoachDong\QuyHoachDong\src\ChienLuoc_QuyHoachDong\KnapsackProblem\obj\Debug\KnapsackProblem.csproj.CoreCompileInputs.cache
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_QuyHoachDong\QuyHoachDong\src\ChienLuoc_QuyHoachDong\KnapsackProblem\obj\Debug\KnapsackProblem.exe
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_QuyHoachDong\QuyHoachDong\src\ChienLuoc_QuyHoachDong\KnapsackProblem\obj\Debug\KnapsackProblem.pdb
