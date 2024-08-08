@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{376602C1-B4B2-4157-8BF8-783916BB7C8B}</ProjectGuid>
+    <ProjectGuid>{56DBACA7-0892-4999-9520-50994FEFEAB1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>KnapsackProblem</RootNamespace>
-    <AssemblyName>KnapsackProblem</AssemblyName>
+    <RootNamespace>Combination</RootNamespace>
+    <AssemblyName>Combination</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

@@ -1,0 +1,8 @@
+E:\QHĐ\src\ChienLuoc_QuyHoachDong\Combination\bin\Debug\Combination.exe.config
+E:\QHĐ\src\ChienLuoc_QuyHoachDong\Combination\bin\Debug\Combination.exe
+E:\QHĐ\src\ChienLuoc_QuyHoachDong\Combination\bin\Debug\Combination.pdb
+E:\QHĐ\src\ChienLuoc_QuyHoachDong\Combination\obj\Debug\Combination.csproj.AssemblyReference.cache
+E:\QHĐ\src\ChienLuoc_QuyHoachDong\Combination\obj\Debug\Combination.csproj.SuggestedBindingRedirects.cache
+E:\QHĐ\src\ChienLuoc_QuyHoachDong\Combination\obj\Debug\Combination.csproj.CoreCompileInputs.cache
+E:\QHĐ\src\ChienLuoc_QuyHoachDong\Combination\obj\Debug\Combination.exe
+E:\QHĐ\src\ChienLuoc_QuyHoachDong\Combination\obj\Debug\Combination.pdb
